@@ -3,8 +3,12 @@
 For materials and submission of Lab 04
 
 Frederick Wittman
+
 Dr. Hill
+
 COSC 2030-01
+
+11 March 2019
 
 ### Problem: Distinguish between binary search, binary trees, and binary search trees.
 
