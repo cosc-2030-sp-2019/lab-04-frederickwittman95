@@ -6,7 +6,7 @@ Frederick Wittman
 Dr. Hill
 COSC 2030-01
 
-#Problem: Distinguish between binary search, binary trees, and binary search trees.
+### Problem: Distinguish between binary search, binary trees, and binary search trees.
 
 ***Solution*** 
 
